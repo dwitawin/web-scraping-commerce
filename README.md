@@ -1,2 +1,2 @@
 # web-scraping-commerce
-This project is used for scraping data from various e-commerce websites.
+This repository is used for scraping product data from e-commerce.
